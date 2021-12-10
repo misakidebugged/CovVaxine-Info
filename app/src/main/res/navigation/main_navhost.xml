@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_navhost"
+    app:startDestination="@id/mainScreen">
+
+    <fragment
+        android:id="@+id/mainScreen"
+        android:name="com.misakicodes.covvaxineinfo.MainScreen"
+        android:label="MainScreen">
+        <action
+            android:id="@+id/actGOTO_astraZenecaInfo"
+            app:destination="@id/astraZenecaInfo"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out" />
+        <action
+            android:id="@+id/actGOTO_coronaVacInfo"
+            app:destination="@id/coronaVacInfo"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out" />
+        <action
+            android:id="@+id/actGOTO_covaxinBharatInfo"
+            app:destination="@id/covaxinBharatInfo"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out" />
+        <action
+            android:id="@+id/actGOTO_janssenInfo"
+            app:destination="@id/janssenInfo"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out" />
+        <action
+            android:id="@+id/actGOTO_modernaInfo"
+            app:destination="@id/modernaInfo"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out" />
+        <action
+            android:id="@+id/actGOTO_pfizerInfo"
+            app:destination="@id/pfizerInfo"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out" />
+        <action
+            android:id="@+id/actGOTO_sinoPharmInfo"
+            app:destination="@id/sinoPharmInfo"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out" />
+    </fragment>
+    <fragment
+        android:id="@+id/astraZenecaInfo"
+        android:name="com.misakicodes.covvaxineinfo.screens.AstraZenecaInfo"
+        android:label="AstraZenecaInfo" />
+    <fragment
+        android:id="@+id/coronaVacInfo"
+        android:name="com.misakicodes.covvaxineinfo.screens.CoronaVacInfo"
+        android:label="CoronaVacInfo" />
+    <fragment
+        android:id="@+id/covaxinBharatInfo"
+        android:name="com.misakicodes.covvaxineinfo.screens.CovaxinBharatInfo"
+        android:label="CovaxinBharatInfo" />
+    <fragment
+        android:id="@+id/janssenInfo"
+        android:name="com.misakicodes.covvaxineinfo.screens.JanssenInfo"
+        android:label="JanssenInfo" />
+    <fragment
+        android:id="@+id/modernaInfo"
+        android:name="com.misakicodes.covvaxineinfo.screens.ModernaInfo"
+        android:label="ModernaInfo" />
+    <fragment
+        android:id="@+id/pfizerInfo"
+        android:name="com.misakicodes.covvaxineinfo.screens.PfizerInfo"
+        android:label="PfizerInfo" />
+    <fragment
+        android:id="@+id/sinoPharmInfo"
+        android:name="com.misakicodes.covvaxineinfo.screens.SinoPharmInfo"
+        android:label="SinoPharmInfo" />
+</navigation>
