@@ -4,7 +4,7 @@ This is a WIP and was made for the GADS 2021 Community Project.
 
 ## What is CovVaxine Info?
 
-It basically a health app aimed to combat mis-information concerning COVID-19 Vaccines.
+It is basically a health app aimed to combat mis-information concerning COVID-19 Vaccines.
 It provides relevant information about each vaccine including their side-effects and dosage usage.
 
 Here is the general look of the app:
