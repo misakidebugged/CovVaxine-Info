@@ -21,6 +21,10 @@ import androidx.navigation.findNavController
 
 class MainScreen : Fragment() {
 
+
+    //ROOT OF THE APP
+
+
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,

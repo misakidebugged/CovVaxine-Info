@@ -1,15 +1,16 @@
 package com.misakicodes.covvaxineinfo
 
-//Principal String Data
+//String Data for the Main Screen.
 
 //TopBar Title
 val apptitledesc = "CovVaxine Info"
 
 //Introduction Card
 val WHOTitleNotice = "COVID-19 VACCINES\nWHAT YOU NEED TO KNOW"
-val WHOCardDetails = "ok oko ok  okokoko okokok okok they have been approved for use by the some something" +
-        "so that no one will really know know knowwwww ok ok ok testersssss whoooooooooooooooooooooo" +
-        "soaaaay something niceee boi"
+val WHOCardDetails = "Below are the various COVID-19 Vaccines available, we have chosen those that" +
+        " are permitted by the World Health Organisation for emergency and full use. If you find yourself " +
+        "in a fortunate position to choose which one to take, take a look at their comparisons\n" +
+        "We will constantly update the information below in case of any changes."
 
 
 //Image Content Descriptions for Accessibility

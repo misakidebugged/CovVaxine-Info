@@ -1,27 +1,31 @@
 package com.misakicodes.covvaxineinfo.screentextdata
 
 
-val detailsInFullPfizer = "The vaccine arose from a collaboration between Oxford University's Jenner" +
-        " Institute and Vaccitech, a private company spun off from the university, with financing from Oxford " +
-        "Sciences Innovation, Google Ventures, and Sequoia Capital, among others.[74] The first batch " +
-        "of the COVID-19 vaccine produced for clinical testing was developed by Oxford University's " +
-        "Jenner Institute and the Oxford Vaccine Group in collaboration with Italian manufacturer " +
-        "Advent Srl located in Pomezia.[75] The team is led by Sarah Gilbert, Adrian Hill, Andrew " +
-        "Pollard, Teresa Lambe, Sandy Douglas and Catherine Green.[76][75]"
+val detailsInFullPfizer = "The Pfizer–BioNTech COVID-19 vaccine (INN: tozinameran), is sold under the brand name Comirnaty\nIt is an " +
+        "mRNA-based vaccine developed by the German biotechnology company BioNTech in collaboration with the American company Pfizer." +
+        "It is authorized for use in people aged five years and older in some locations, twelve years and older as well" +
+        ", and for people sixteen years and older.\n\nThe vaccine is given by intramuscular injection. " +
+        "It is composed of nucleoside-modified mRNA (modRNA) encoding a mutated form of the full-length spike protein of SARS-CoV-2." +
+        " Initial advice indicated that vaccination required two doses given 21 days apart," +
+        " but the interval was later extended to up to 42 days in the US, and up to four months in Canada."
 
-val prosContentPfizer = ""
+val prosContentPfizer = "- 91% Effective\n"
 
-val consContentPfizer = ""
+val consContentPfizer = "Extremly Rare (less that 1%), Potentially Causes Severe Heart Problems"
 
-val NODNABSPfizer = "Doses Needed: One (1)\nBooster Shots Needed: Four (4)"
+val NODNABSPfizer = "Doses Needed: TWO (21 days apart)\nBooster Shots Are allowed"
 
-val descMapPfizer = "A map detailing where Astrazeneca is Authorized"
+val descMapPfizer = "Pfizer-BionTech is authorized in the following regions"
 
-val areasVaccineApprovedPfizer = "AstraZeneca is Approved in the following regions"
+val areasVaccineApprovedPfizer = "Pfizer-BionTech is authorized in the following regions"
 
-val titleToControversiesPfizer = "What to know about AstraZeneca and its Side-effects"
+val titleToControversiesPfizer = "What to know about Pfizer-BioNTech"
 
-val controversiesPfizer = "Blah BLah blllllllllllllljjjjj hsssssssssssshhshshsh hshshsh  shshsh" +
-        "shshshhsjkkk sksjksjs ksjkshishs kskshs kkkkks skskshkshs sksk s"
+val controversiesPfizer = "So far it has proven itself as a working vaccine even against new variants." +
+        "Pfzier went through its shares of controversies especially during its funding phase, during that time Pfizer CEO Albert Bourla " +
+        "said he decided against taking funding from the US government's Operation \"Warp Speed\" for the development of the " +
+        "vaccine because he wanted to liberate his scientists from any bureaucracy that comes with having to give reports and agree" +
+        " how they are going to spend the money in parallel or together, etc.\n " +
+        "However Pfizer did eventually enter into an agreement with the US for the eventual distribution of the vaccine, as with other countries."
 
 val webpagePfizer = "https://en.wikipedia.org/wiki/Pfizer%E2%80%93BioNTech_COVID-19_vaccine"
