@@ -25,7 +25,7 @@ class SinoPharmInfo : Fragment(){
 
                 val imageSinoPharmDistributionMap = painterResource(id = R.drawable.sinopharmmap)
                 val imageSinoPharm = painterResource(id = R.drawable.sinopharmbig)
-                val titleBarMessageAZ = "Sinopharm BBIBP-CorV"
+                val titleBarMessageAZ = "Sinopharm (BBIBP-CorV)"
 
                 Column(modifier = Modifier.fillMaxSize()) {
                     TopBar(titleBar = titleBarMessageAZ, barColorR = 92, barColorG = 11, barColorB = 240)

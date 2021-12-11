@@ -509,7 +509,7 @@ fun VaccineDetailedInformation( //Composable for each vaccine screen
                 Text(
                     text = screenTextDetailsInFull,
                     color = Color.White,
-                    fontSize = 18.sp,
+                    fontSize = 15.sp,
                     textAlign = TextAlign.Left,
                     style = TextStyle(
                         fontFamily = fontSignikaFamily,

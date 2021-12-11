@@ -5,17 +5,17 @@ val detailsInFullAstrazeneca = "The Oxford-AstraZeneca vaccine is also know as \
         "collaboration between Oxford University's Jenner" +
         " Institute and Vaccitech, a private company spun off from the university, with financing from Oxford " +
         "Sciences Innovation, Google Ventures, and Sequoia Capital, among others. Vaxzevria is also known as \"Covishield\"" +
-        " uses a DNA in adenoviral vector Technology"
+        " and uses a DNA in adenoviral vector Technology."
 
-val prosContentAstraZeneca = "- No Serious Common Side-Effects\n- 70% Effective"
+val prosContentAstraZeneca = "⁘ No Serious Common Side-Effects.\n⁘ 70% Effective."
 
-val consContentAstraZeneca = "Ultra Rare Embolic and thrombotic events for women under 55 (0.21/1Million),"
+val consContentAstraZeneca = "⁘ Ultra Rare Embolic and thrombotic events for women under 55 (0.21/1Million)."
 
 val NODNABSAstraZeneca = "Doses Needed: TWO (4-12 Weeks Apart)\nBoosters are Generally not Authorised"
 
 val descMapAstraZeneca = "A map detailing where vaxzevria is Authorized"
 
-val areasVaccineApprovedAstraZeneca = "Oxford-AstraZeneca Vaxzevria is Approved in the following regions"
+val areasVaccineApprovedAstraZeneca = "Oxford-AstraZeneca Vaxzevria is Approved in the Following Regions"
 
 val titleToControversiesAstraZeneca = "What to know about Vaxzevria"
 

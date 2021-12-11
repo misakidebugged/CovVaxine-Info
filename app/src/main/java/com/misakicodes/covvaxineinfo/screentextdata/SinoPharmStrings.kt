@@ -11,28 +11,28 @@ val detailsInFullSinoPharm = "The Sinopharm Vaccine or BBIBP-CorV has been devel
         "It is treated as a foreign antigen by the body’s immune system, which responds by " +
         "the formation of antibodies, which in turn build up immunity."
 
-val prosContentSinoPharm = "- 79% Effective"
+val prosContentSinoPharm = "⁘ 79% Effective."
 
-val consContentSinoPharm = "- 50% effective against variant infection, but 90%+ effective against death"
+val consContentSinoPharm = "⁘ Only 50% effective against variant infection (Nevertheless still prevents deaths)"
 
 val NODNABSSinoPharm = "Doses Needed: TWO (3 Weeks Apart)\nBooster Shots Needed: None so far"
 
 val descMapSinoPharm = "A map detailing where BBIBP-CorV is Authorized"
 
-val areasVaccineApprovedSinoPharm = "BBIBP-CorV is Approved in the following regions"
+val areasVaccineApprovedSinoPharm = "BBIBP-CorV is Approved in the Following Regions"
 
 val titleToControversiesSinoPharm = "What to know about Sinopharm's BBIBP-CorV"
 
-val controversiesSinoPharm= "Like the other Vaccines, BBIBP-CorV carries the usall side-effects such as \n" +
+val controversiesSinoPharm= "Like the other Vaccines, BBIBP-CorV carries the usual side-effects such as: \n" +
         "\n" +
-        "    Tiredness\n" +
-        "    Muscle Pain\n" +
-        "    Fatigue\n" +
-        "    Fever With Chills\n" +
-        "    Nausea Or Vomiting\n" +
-        "    Weakness\n" +
-        "    Headache\n" +
-        "    Acute Disseminated Encephalomyelitis (ADEM)\n\n" +
+        "- Tiredness\n" +
+        "- Muscle Pain\n" +
+        "- Fatigue\n" +
+        "- Fever With Chills\n" +
+        "- Nausea Or Vomiting\n" +
+        "- Weakness\n" +
+        "- Headache\n" +
+        "- Acute Disseminated Encephalomyelitis (ADEM)\n\n" +
         "As it uses an inactivated virus, it is considered safer in the long run, away from the " +
         "potential mRNA vaccine long term side-effects that are yet unknown. BBIBP-CorV also has a " +
         "better storage requirement, facilitating its distribution world wide."

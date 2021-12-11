@@ -8,8 +8,8 @@ val apptitledesc = "CovVaxine Info"
 //Introduction Card
 val WHOTitleNotice = "COVID-19 VACCINES\nWHAT YOU NEED TO KNOW"
 val WHOCardDetails = "Below are the various COVID-19 Vaccines available, we have chosen those that" +
-        " are permitted by the World Health Organisation for emergency and full use. If you find yourself " +
-        "in a fortunate position to choose which one to take, take a look at their comparisons\n" +
+        " have been permitted by the World Health Organisation for emergency and full use.\nIf you find yourself " +
+        "in a fortunate position to choose which one to take, take a look at their comparisons\n\n" +
         "We will constantly update the information below in case of any changes."
 
 
@@ -27,7 +27,7 @@ val titleAstraZeneca = "Oxford-AstraZeneca"
 val titlePfizer = "Pfizer–BioNTech"
 val titleSinoPharm = "Sinopharm BBIBP-Corv"
 val titleModerna = "Moderna"
-val titleJanssen = "Janssen (Johnson & Johnson)"
+val titleJanssen = "Johnson & Johnson"
 val titleCovaxinBharat = "Covaxin"
 val titleSinoVac = "CoronaVac"
 

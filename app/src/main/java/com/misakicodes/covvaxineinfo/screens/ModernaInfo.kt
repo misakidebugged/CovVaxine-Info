@@ -25,7 +25,7 @@ class ModernaInfo : Fragment(){
 
                 val imageModernaDistributionMap = painterResource(id = R.drawable.modernamap)
                 val imageModerna = painterResource(id = R.drawable.modernamini)
-                val titleBarMessageAZ = "MODERNA"
+                val titleBarMessageAZ = "MODERNA (SpikeVax)"
 
                 Column(modifier = Modifier.fillMaxSize()) {
                     TopBar(titleBar = titleBarMessageAZ, barColorR = 92, barColorG = 11, barColorB = 240)

@@ -25,7 +25,7 @@ class PfizerInfo : Fragment(){
 
                 val imagePfizerDistributionMap = painterResource(id = R.drawable.pfizermap)
                 val imagePfizer = painterResource(id = R.drawable.pfizermini)
-                val titleBarMessageAZ = "Pfizer-BIONTECH"
+                val titleBarMessageAZ = "Pfizer-BIONTECH (Comirnaty)"
 
                 Column(modifier = Modifier.fillMaxSize()) {
                     TopBar(titleBar = titleBarMessageAZ, barColorR = 92, barColorG = 11, barColorB = 240)

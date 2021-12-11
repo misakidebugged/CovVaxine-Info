@@ -1,21 +1,21 @@
 package com.misakicodes.covvaxineinfo.screentextdata
 
 
-val detailsInFullModerna = "The Moderna COVID‑19 vaccine, codenamed mRNA-1273 is sold under the brand name \"Spikevax\" \n" +
-        "It is developed by the American company Moderna, United States National Institute of Allergy and Infectious Diseases (NIAID), " +
+val detailsInFullModerna = "The Moderna COVID‑19 vaccine, codenamed mRNA-1273 is sold under the brand name \"SpikeVax\"." +
+        " It is developed by the American company Moderna, United States National Institute of Allergy and Infectious Diseases (NIAID), " +
         "and the Biomedical Advanced Research and Development Authority (BARDA). \n\n" +
         "It is an RNA vaccine which is a type of vaccine that uses a copy of a molecule called messenger RNA " +
         "(mRNA) to produce an immune response."
 
-val prosContentModerna = "- 94% Effective"
+val prosContentModerna = "⁘ Up to 94% Effective."
 
-val consContentModerna = "- Rarely, some people have had heart problems after getting the mRNA Vaccine"
+val consContentModerna = "⁘ Although rare, some people have had heart problems after getting the mRNA Vaccine."
 
-val NODNABSModerna = "Doses Needed: TWO (28 Days Apart)\nBooster Shots Needed: One, for those with weak immune systems"
+val NODNABSModerna = "Doses Needed: TWO (28 Days Apart)\nBooster Shots Needed: One, for those with weaker immune systems"
 
 val descMapModerna = "A map detailing where Moderna is Authorized"
 
-val areasVaccineApprovedModerna = "Moderna is Approved in the following regions"
+val areasVaccineApprovedModerna = "Moderna is Approved in the Following Regions"
 
 val titleToControversiesModerna = "What to know about Moderna"
 
