@@ -1,27 +1,26 @@
 package com.misakicodes.covvaxineinfo.screentextdata
 
 
-val detailsInFullCovaxinBharat = "The vaccine arose from a collaboration between Oxford University's Jenner" +
-        " Institute and Vaccitech, a private company spun off from the university, with financing from Oxford " +
-        "Sciences Innovation, Google Ventures, and Sequoia Capital, among others.[74] The first batch " +
-        "of the COVID-19 vaccine produced for clinical testing was developed by Oxford University's " +
-        "Jenner Institute and the Oxford Vaccine Group in collaboration with Italian manufacturer " +
-        "Advent Srl located in Pomezia.[75] The team is led by Sarah Gilbert, Adrian Hill, Andrew " +
-        "Pollard, Teresa Lambe, Sandy Douglas and Catherine Green.[76][75]"
+val detailsInFullCovaxinBharat = "Bharat Biotech’s Covaxin is an Indian developed COVID-19 Vaccine, It contains " +
+        "inactivated antigen that helps in building an immune response against the virus. It is Authorised for anyone above the age of 18"
 
-val prosContentCovaxinBharat = ""
+val prosContentCovaxinBharat = "- 77.8% Effective\n"
 
-val consContentCovaxinBharat = ""
+val consContentCovaxinBharat = "Rare serious allergic reactions may occur"
 
-val NODNABSCovaxinBharat = "Doses Needed: One (1)\nBooster Shots Needed: Four (4)"
+val NODNABSCovaxinBharat = "Doses Needed: TWO (4 weeks apart)\nBooster Shots Needed: NO INFO"
 
-val descMapCovaxinBharat = "A map detailing where Astrazeneca is Authorized"
+val descMapCovaxinBharat = "A map detailing where Covaxin is Authorized"
 
-val areasVaccineApprovedCovaxinBharat = "AstraZeneca is Approved in the following regions"
+val areasVaccineApprovedCovaxinBharat = "Covaxin is Approved in the following regions"
 
-val titleToControversiesCovaxinBharat = "What to know about AstraZeneca and its Side-effects"
+val titleToControversiesCovaxinBharat = "What to know about Covaxin"
 
-val controversiesCovaxinBharat = "Blah BLah blllllllllllllljjjjj hsssssssssssshhshshsh hshshsh  shshsh" +
-        "shshshhsjkkk sksjksjs ksjkshishs kskshs kkkkks skskshkshs sksk s"
+val controversiesCovaxinBharat = "On 2 January 2021, the Indian Central Drugs Standard Control Organization (CDSCO) " +
+        "recommended permission, which was granted the next day. Covaxin was to be used in a \"clinical trial mode\" " +
+        "i.e. the public vaccination drive was to be an open-label, single-arm clinical trial in itself." +
+        " This emergency approval was granted without considering the Phase III trial data concerning efficacy " +
+        "and safety, Needless to say it drew widespread criticism.\n\n" +
+        "On 12October 2021, Bharat Biotech's Covaxin got approved for usage on children between 2 to 18 years of age."
 
 val webpageCovaxinBharat = "https://en.wikipedia.org/wiki/Covaxin"
