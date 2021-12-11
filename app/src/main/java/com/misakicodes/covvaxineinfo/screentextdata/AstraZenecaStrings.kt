@@ -5,7 +5,7 @@ val detailsInFullAstrazeneca = "The Oxford-AstraZeneca vaccine is also know as \
         "collaboration between Oxford University's Jenner" +
         " Institute and Vaccitech, a private company spun off from the university, with financing from Oxford " +
         "Sciences Innovation, Google Ventures, and Sequoia Capital, among others. Vaxzevria is also known as \"Covishield\"" +
-        " uses a DNA in adenoviral vector Technology (Sleeper/Inactive Virus)"
+        " uses a DNA in adenoviral vector Technology"
 
 val prosContentAstraZeneca = "- No Serious Common Side-Effects\n- 70% Effective"
 
