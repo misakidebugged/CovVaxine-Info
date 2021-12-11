@@ -92,7 +92,7 @@ fun VaccineVarriantSelector( //Reusable composable for displaying basic Card inf
                         cardDetails,
                         style = TextStyle(
                             color = Color.White,
-                            fontSize = 13.sp,
+                            fontSize = 10.sp,
                             textAlign = TextAlign.Left,
                             fontStyle = FontStyle.Italic, shadow = Shadow(
                                 color = Color.Black,
@@ -130,7 +130,7 @@ fun TopBar( // Simple bar displaying app name
 ) {
     Box(
         modifier = Modifier
-            .height(60.dp)
+            .height(55.dp)
             .fillMaxWidth()
             .background(color = Color(barColorR, barColorG, barColorB)),
         contentAlignment = Alignment.CenterStart
@@ -187,7 +187,7 @@ fun WHOMainCard( // Simple Card providing disclaimer from the WHO
                             Text(
                                 text = title,
                                 color = Color.White,
-                                fontSize = 25.sp,
+                                fontSize = 20.sp,
                                 textAlign = TextAlign.Center,
                                 fontWeight = FontWeight.Bold,
                                 style = TextStyle(
@@ -204,7 +204,7 @@ fun WHOMainCard( // Simple Card providing disclaimer from the WHO
                         Text(
                             text = details,
                             color = Color.White,
-                            fontSize = 16.sp,
+                            fontSize = 15.sp,
                             textAlign = TextAlign.Left,
                             style = TextStyle(
                                 fontFamily = fontSignikaFamily,
@@ -330,7 +330,7 @@ fun VaccineDetailedInformation( //Composable for each vaccine screen
                 Text(
                     text = numberOfDosesNeededAndBoosterShots,
                     color = Color(cardImageTextColorR,cardImageTextColorG,cardImageTextColorB),
-                    fontSize = 20.sp,
+                    fontSize = 17.sp,
                     textAlign = TextAlign.Left,
                     style = TextStyle(
                         fontFamily = fontSignikaFamily,
@@ -408,7 +408,7 @@ fun VaccineDetailedInformation( //Composable for each vaccine screen
                                             Text(
                                                 text = prosContentTxt,
                                                 color = Color.White,
-                                                fontSize = 15.sp,
+                                                fontSize = 13.sp,
                                                 textAlign = TextAlign.Left,
                                                 style = TextStyle(
                                                     fontFamily = fontSignikaFamily,
@@ -480,7 +480,7 @@ fun VaccineDetailedInformation( //Composable for each vaccine screen
                                             Text(
                                                 text = consContentTxt,
                                                 color = Color.White,
-                                                fontSize = 15.sp,
+                                                fontSize = 13.sp,
                                                 textAlign = TextAlign.Left,
                                                 style = TextStyle(
                                                     fontFamily = fontSignikaFamily,

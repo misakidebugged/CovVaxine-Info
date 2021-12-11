@@ -11,7 +11,7 @@ val detailsInFullCoronaVac = "CoronaVac also going by the name of Sinovac is dev
 
 val prosContentCoronaVac = "⁘ Safer in the long run as it uses traditional vaccine technologies."
 
-val consContentCoronaVac = "⁘ Common side effect of Injection site pain is high (up to 17-21%). Disappears after 2 days."
+val consContentCoronaVac = "⁘ Injection site pain possibility is high (17-21%). Disappears after 2 days."
 
 val NODNABSCoronaVac = "Doses Needed: TWO (21 days apart)\nBooster Shots Required: NO INFO"
 

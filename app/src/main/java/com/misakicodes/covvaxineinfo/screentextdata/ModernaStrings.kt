@@ -9,7 +9,7 @@ val detailsInFullModerna = "The Moderna COVID‑19 vaccine, codenamed mRNA-1273 
 
 val prosContentModerna = "⁘ Up to 94% Effective."
 
-val consContentModerna = "⁘ Although rare, some people have had heart problems after getting the mRNA Vaccine."
+val consContentModerna = "⁘ Although rare, there are possibilities of heart problems."
 
 val NODNABSModerna = "Doses Needed: TWO (28 Days Apart)\nBooster Shots Needed: One, for those with weaker immune systems"
 
