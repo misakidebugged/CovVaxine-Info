@@ -33,6 +33,9 @@ import org.intellij.lang.annotations.JdkConstants
 class MainActivity : AppCompatActivity(){
 
     // I chose to use the XML Navhost system as I find it easier. Just a personal preference of mine
+    // I am using fragments, refer to the NavHost to see the fragment calls in .screens
+    // MainScreen in the entry point for the app.
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
