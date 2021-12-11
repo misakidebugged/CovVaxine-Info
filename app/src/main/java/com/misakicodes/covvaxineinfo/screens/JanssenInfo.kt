@@ -39,7 +39,7 @@ class JanssenInfo : Fragment(){
                         imageMapDescription = descMapJanssen,
                         txtTitleToControversies = titleToControversiesJanssen,
                         screenTextControversies = controversiesJanssen,
-                        linkForMoreInfo = webpageAstraZeneca,
+                        linkForMoreInfo = webpageJanssen,
                         startPadding = 16,
                         endPadding= 16,
                         prosContentTxt = prosContentJanssen,
