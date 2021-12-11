@@ -11,7 +11,7 @@ val detailsInFullPfizer = "The Pfizer–BioNTech COVID-19 vaccine (INN: toziname
 
 val prosContentPfizer = "- 91% Effective\n"
 
-val consContentPfizer = "Extremly Rare (less that 1%), Potentially Causes Severe Heart Problems"
+val consContentPfizer = "Extremely Rare (less that 1%), Potentially Causes Severe Heart Problems"
 
 val NODNABSPfizer = "Doses Needed: TWO (21 days apart)\nBooster Shots Are allowed"
 
