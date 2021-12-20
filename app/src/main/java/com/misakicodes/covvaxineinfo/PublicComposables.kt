@@ -72,7 +72,7 @@ fun VaccineVarriantSelector( //Reusable composable for displaying basic Card inf
                     .padding(18.dp), contentAlignment = Alignment.TopStart
             ) {
                 Column {
-                    Text(
+                    Text( //-------------------------------------------------------------------------- Title for Card
                         title,
                         style = TextStyle(
                             color = Color(
@@ -88,11 +88,11 @@ fun VaccineVarriantSelector( //Reusable composable for displaying basic Card inf
                         )
                     )
                     Spacer(modifier = Modifier.padding(2.dp))
-                    Text(
+                    Text( //---------------------------------------------------------------------------- Info for Card
                         cardDetails,
                         style = TextStyle(
                             color = Color.White,
-                            fontSize = 10.sp,
+                            fontSize = 11.sp,
                             textAlign = TextAlign.Left,
                             fontStyle = FontStyle.Italic, shadow = Shadow(
                                 color = Color.Black,
@@ -205,7 +205,7 @@ fun WHOMainCard( // Simple Card providing disclaimer from the WHO
                             text = details,
                             color = Color.White,
                             fontSize = 15.sp,
-                            textAlign = TextAlign.Left,
+                            textAlign = TextAlign.Justify,
                             style = TextStyle(
                                 fontFamily = fontSignikaFamily,
                                 shadow = Shadow(
@@ -510,7 +510,7 @@ fun VaccineDetailedInformation( //Composable for each vaccine screen
                     text = screenTextDetailsInFull,
                     color = Color.White,
                     fontSize = 15.sp,
-                    textAlign = TextAlign.Left,
+                    textAlign = TextAlign.Justify,
                     style = TextStyle(
                         fontFamily = fontSignikaFamily,
                         shadow = Shadow(
@@ -615,7 +615,7 @@ fun VaccineDetailedInformation( //Composable for each vaccine screen
                     text = screenTextControversies,
                     color = Color.White,
                     fontSize = 15.sp,
-                    textAlign = TextAlign.Left,
+                    textAlign = TextAlign.Justify,
                     style = TextStyle(
                         fontFamily = fontSignikaFamily,
                         shadow = Shadow(
