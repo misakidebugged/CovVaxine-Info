@@ -1,3 +1,5 @@
+(OOOOOF THIS WAS A MESS... I mean the app works but really wasn't following the MVVM guidelines, seriously lol nevermind this 😅)
+
 # CovVaxine-Info
 Luc Misaki Makelele here with a Simple Jetpack Compose Android App Template.
 This is a WIP and was made for the GADS 2021 Community Project.
